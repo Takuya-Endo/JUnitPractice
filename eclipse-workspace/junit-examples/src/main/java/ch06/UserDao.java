@@ -1,5 +1,6 @@
 package ch06;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -8,7 +9,22 @@ import java.util.List;
  */
 public class UserDao {
 
+	private List<User> userList = new ArrayList<User>();
+	
+	public void setList(String name) {
+		
+    	User user = new User();
+    	user.setName(name);
+		this.userList.add(user);
+    	
+	}
+	
     public List<User> getList() {
+    	
+    	if (this.userList.size() >= 1) {
+    		return this.userList;
+    	}
+    	
         throw new UnsupportedOperationException("未実装");
     }
 }
