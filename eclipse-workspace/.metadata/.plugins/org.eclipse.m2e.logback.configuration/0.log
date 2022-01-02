@@ -1475,3 +1475,319 @@
 2022-01-02 14:37:38,597 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
 2022-01-02 14:37:56,833 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
 2022-01-02 14:37:56,834 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 14:37:56,836 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 14:37:56,842 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:03:33,674 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:03:33,675 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:03:33,677 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:03:33,682 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:04:19,302 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:04:19,303 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:04:19,305 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:04:19,311 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:04:23,688 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:04:23,689 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:04:23,692 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:04:23,697 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:05:01,255 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:05:01,256 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:05:01,259 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:05:01,263 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:05:20,782 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:05:20,782 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:05:20,785 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:05:20,790 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:06:11,671 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:06:11,671 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:06:11,673 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:06:11,680 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:06:32,972 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:06:32,973 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:06:32,975 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:06:32,981 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:06:50,289 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:06:50,290 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:06:50,293 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:06:50,298 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:07:17,407 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:07:17,407 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:07:17,410 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:07:17,415 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:07:39,866 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:07:39,867 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:07:39,870 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:07:39,875 [Worker-92: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:08:08,277 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:08:08,278 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:08:08,281 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:08:08,286 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:08:39,375 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:08:39,376 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:08:39,378 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:08:39,383 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:08:45,954 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:08:45,955 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:08:45,957 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:08:45,962 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:09:29,594 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:09:29,595 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:09:29,597 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:09:29,602 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:10:21,366 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:10:21,367 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:10:21,370 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:10:21,376 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:10:24,083 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:10:24,083 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:10:24,085 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:10:24,089 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:10:29,456 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:10:29,457 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:10:29,460 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:10:29,465 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:10:37,841 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:10:37,842 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:10:37,844 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:10:37,850 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:11:12,870 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:11:12,871 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:11:12,874 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:11:12,879 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:11:20,489 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:11:20,489 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:11:20,491 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:11:20,495 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:11:29,292 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:11:29,293 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:11:29,295 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:11:29,301 [Worker-93: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:11:37,451 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:11:37,452 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:11:37,455 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:11:37,460 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:11:57,768 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:11:57,769 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:11:57,772 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:11:57,777 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:13:09,233 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:13:09,234 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:13:09,236 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:13:09,242 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:14:54,349 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:14:54,350 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:14:54,353 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:14:54,358 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:15:36,185 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:15:36,186 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:15:36,188 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:15:36,193 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:17:03,753 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:17:03,754 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:17:03,756 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:17:03,761 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:17:39,027 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:17:39,028 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:17:39,030 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:17:39,036 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:17:50,690 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:17:50,691 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:17:50,693 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:17:50,698 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:18:10,813 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:18:10,814 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:18:10,815 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:18:10,819 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:18:23,115 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:18:23,116 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:18:23,118 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:18:23,123 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:19:46,710 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:19:46,711 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:19:46,713 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:19:46,718 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:20:32,314 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:20:32,314 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:20:32,317 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:20:32,322 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:23:27,817 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:23:27,818 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:23:27,820 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:23:27,826 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:23:53,368 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:23:53,369 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:23:53,372 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:23:53,377 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:24:04,795 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:24:04,796 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:24:04,798 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:24:04,804 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:24:19,777 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:24:19,778 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:24:19,780 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:24:19,786 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:26:34,924 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:26:34,926 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:26:34,928 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:26:34,933 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:26:37,297 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:26:37,298 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:26:37,300 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:26:37,305 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:27:44,676 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:27:44,677 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:27:44,680 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:27:44,685 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:28:00,550 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:28:00,551 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:28:00,554 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:28:00,559 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:28:31,889 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:28:31,890 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:28:31,892 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:28:31,897 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:30:10,088 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:30:10,089 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:30:10,092 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:30:10,097 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:30:13,454 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:30:13,455 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:30:13,457 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:30:13,462 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:31:10,511 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:31:10,512 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:31:10,515 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:31:10,521 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:31:32,033 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:31:32,034 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:31:32,036 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:31:32,041 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:31:41,979 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:31:41,980 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:31:41,982 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:31:41,988 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:32:00,149 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:32:00,150 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:32:00,152 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:32:00,156 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:33:28,184 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:33:28,185 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:33:28,187 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:33:28,192 [Worker-95: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:33:49,654 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:33:49,655 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:33:49,657 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:33:49,662 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:33:57,898 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:33:57,899 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:33:57,901 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:33:57,907 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:36:03,142 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:36:03,143 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:36:03,145 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:36:03,150 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:36:58,736 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:36:58,737 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:36:58,740 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:36:58,746 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:37:08,224 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:37:08,225 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:37:08,227 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:37:08,232 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:37:21,262 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:37:21,263 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:37:21,265 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:37:21,269 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:37:24,814 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:37:24,815 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:37:24,818 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:37:24,822 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:37:59,121 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:37:59,122 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:37:59,124 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:37:59,129 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:38:16,469 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:38:16,470 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:38:16,472 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:38:16,477 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:42:05,074 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:42:05,076 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:42:05,079 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:42:05,085 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:42:17,632 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:42:17,632 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:42:17,635 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:42:17,640 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:42:40,755 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:42:40,756 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:42:40,758 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:42:40,763 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:42:43,313 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:42:43,314 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:42:43,317 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:42:43,322 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:43:29,982 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:43:29,982 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:43:29,984 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:43:29,988 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:43:41,060 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:43:41,060 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:43:41,062 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:43:41,067 [Worker-99: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:44:22,732 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:44:22,733 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:44:22,736 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:44:22,741 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:44:28,722 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:44:28,723 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:44:28,726 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:44:28,731 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:44:35,265 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:44:35,266 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:44:35,268 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:44:35,275 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:45:38,320 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:45:38,321 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:45:38,324 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:45:38,331 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:45:52,600 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:45:52,601 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:45:52,603 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:45:52,609 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:46:37,855 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:46:37,856 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:46:37,858 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:46:37,864 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:46:45,465 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:46:45,466 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:46:45,468 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:46:45,474 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:46:48,921 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:46:48,922 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:46:48,924 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:46:48,929 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:47:00,059 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:47:00,060 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:47:00,062 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:47:00,067 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:47:02,624 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:47:02,624 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:47:02,627 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:47:02,631 [Worker-97: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:47:12,276 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:47:12,277 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:47:12,280 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:47:12,285 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:47:23,023 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:47:23,024 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:47:23,026 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:47:23,032 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:47:42,573 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:47:42,574 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:47:42,576 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:47:42,580 [Worker-98: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:47:49,854 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:47:49,854 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
+2022-01-02 15:47:49,857 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:47:49,861 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-01-02 15:47:55,558 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf-8' encoding to copy filtered resources.
+2022-01-02 15:47:55,559 [Worker-96: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\home\Desktop\JUnitPractice\eclipse-workspace\junit-examples\src\main\resources
