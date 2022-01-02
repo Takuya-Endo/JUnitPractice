@@ -1,13 +1,13 @@
 package ch03;
 
 import static org.junit.Assert.*;
-
+import static org.hamcrest.CoreMatchers.*;
 import org.junit.Test;
 
 public class UserFormTest {
 
 	@Test
-	public void testIsValidTrue() throws Exception {
+	public void testIsValid() throws Exception {
 		
 		//SetUp
 	    String userName = "TestName";
@@ -25,7 +25,7 @@ public class UserFormTest {
 	}
 	
 	@Test
-	public void testIsValidFalse() throws Exception {
+	public void testGetErrorMessage() throws Exception {
 		
 		//SetUp
 		String userName = "";
@@ -33,7 +33,15 @@ public class UserFormTest {
 		UserForm sut = new UserForm(userName, password);
 		
 		//Exercise
-		boolean actual = sut.isValid();
+		String actual = sut.getErrorMessage();
+		
+		//Verify
+		String expected = "ユーザIDは必須項目です。";
+//		assertEquals(expected, actual);
+		assertThat(actual, is(expected));
+		//それぞれstaticインポートが必要
+		//import static org.junit.Assert.*;
+		//import static org.hamcrest.CoreMatchers.*;
 		
 	}
 
