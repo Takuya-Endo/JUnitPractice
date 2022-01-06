@@ -18,7 +18,7 @@ public class SystemOutNowDateTest {
 		//SetUp - 初期化
 		SystemOutNowDate sut = new SystemOutNowDate();
 		
-		//Exercise - テスト実行
+		//Execute - テスト実行
 		String actual = sut.systemOutNowDate();
 		
 		//Verify - 検証
@@ -33,7 +33,7 @@ public class SystemOutNowDateTest {
 		//SetUp - 初期化
 		SystemOutNowDate sut = new SystemOutNowDate();
 		
-		//Exercise - テスト実行
+		//Execute - テスト実行
 		Date actual = sut.nowDate();
 		
 		//Verify - 検証

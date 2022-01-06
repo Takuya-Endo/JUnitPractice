@@ -41,7 +41,6 @@
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="ch11.RandomsTestFixtures"/>
     <fullyQualifiedTypeName name="ch11.RandomNumberGeneratorImpl"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="ch11.User"/>
     <fullyQualifiedTypeName name="ch11.UserDaoImplements"/>
     <fullyQualifiedTypeName name="ch11.UserDao"/>
@@ -56,7 +55,9 @@
     <fullyQualifiedTypeName name="ch11.SpyExample"/>
     <fullyQualifiedTypeName name="java.util.logging.Logger"/>
     <fullyQualifiedTypeName name="ch11.SpyLogger"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="org.hamcrest.CoreMatchers"/>
     <fullyQualifiedTypeName name="org.junit.Before"/>
+    <fullyQualifiedTypeName name="ch11.ArrayListTestFixtures"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
 </qualifiedTypeNameHistroy>

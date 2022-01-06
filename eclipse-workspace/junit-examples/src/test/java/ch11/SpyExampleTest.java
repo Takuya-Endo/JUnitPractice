@@ -17,7 +17,7 @@ public class SpyExampleTest {
 			//Spy注入
 			sut.logger = spy;
 		
-		//Exercise - テスト実行
+		//Execute - テスト実行
 			sut.doSomething();
 			//Spyを使ってログ出力をactualに格納
 			String actual = spy.getLog();

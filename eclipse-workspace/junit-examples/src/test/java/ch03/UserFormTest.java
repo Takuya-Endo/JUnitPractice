@@ -14,7 +14,7 @@ public class UserFormTest {
 	    String password = "TestPass";
 		UserForm sut = new UserForm(userName, password);
 		
-		//Exercise
+		//Execute
 		boolean actual = sut.isValid();
 		
 		//Verify
@@ -32,7 +32,7 @@ public class UserFormTest {
 	    String password = "TestPass";
 		UserForm sut = new UserForm(userName, password);
 		
-		//Exercise
+		//Execute
 		String actual = sut.getErrorMessage();
 		
 		//Verify

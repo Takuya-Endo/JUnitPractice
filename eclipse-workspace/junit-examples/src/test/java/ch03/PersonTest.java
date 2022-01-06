@@ -25,7 +25,7 @@ public class PersonTest {
 	@Test
 	public void testGetName() throws Exception {
 		
-		//Exercise - テスト実行
+		//Execute - テスト実行
 		String actual = this.sut.getName();
 		
 		//Verify - 検証
@@ -37,7 +37,7 @@ public class PersonTest {
 	@Test
 	public void testGetAge() throws Exception {
 
-		//Exercise - テスト実行
+		//Execute - テスト実行
 		int actual = this.sut.getAge();
 		
 		//Verify - 検証
@@ -49,7 +49,7 @@ public class PersonTest {
 	@Test
 	public void testGetEmail() throws Exception {
 		
-		//Exercise - テスト実行
+		//Execute - テスト実行
 		String actual = this.sut.getEmail();
 		
 		//Verify - 検証
@@ -61,7 +61,7 @@ public class PersonTest {
 	@Test
 	public void testNotNullValue() throws Exception {
 		
-		//Exercise - テスト実行
+		//Execute - テスト実行
 		String actual = this.sut.getName();
 		
 		//Verify - 検証

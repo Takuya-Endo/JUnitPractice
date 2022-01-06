@@ -32,7 +32,7 @@ public class UserDaoTest {
 		@Test(expected = UnsupportedOperationException.class)
 		public void testGetList() {
 			
-			//Exercise - テスト実行
+			//Execute - テスト実行
 			List<User> actual = this.sut.getList();
 			
 			//Verify - 検証
@@ -61,7 +61,7 @@ public class UserDaoTest {
 		@Test
 		public void testGetList() {
 			
-			//Exercise - テスト実行
+			//Execute - テスト実行
 			List<User> actual = this.sut.getList();
 			
 			//Verify - 検証

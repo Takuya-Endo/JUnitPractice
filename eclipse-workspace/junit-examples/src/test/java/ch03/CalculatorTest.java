@@ -15,7 +15,7 @@ public class CalculatorTest {
 		//SetUp - 初期化
 		Calculator sut = new Calculator();
 		
-		//Exercise - テスト実行
+		//Execute - テスト実行
 		int actual = sut.divide(2, 3);
 		
 		//Verify - 検証

@@ -29,7 +29,7 @@ public class UserDaoImplementsTest {
 		expectedException.expect(is(UserNotFoundException.class));
 		expectedException.expectMessage("UNFException");
 		
-		//Exercise - テスト実行
+		//Execute - テスト実行
 		User actual = sut.find("TestUserId");
 		
 		//Verify - 検証
@@ -43,7 +43,7 @@ public class UserDaoImplementsTest {
 		//SetUp - 初期化
 		UserDaoImplements sut = new UserDaoImplements();
 		
-		//Exercise - テスト実行
+		//Execute - テスト実行
 		User actual = sut.find("TestUserId");
 		
 		//Verify - 検証

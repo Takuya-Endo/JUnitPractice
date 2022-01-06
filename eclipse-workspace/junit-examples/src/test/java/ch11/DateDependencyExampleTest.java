@@ -15,7 +15,7 @@ public class DateDependencyExampleTest {
 		//SetUp - 初期化
 		DateDependencyExample sut = new DateDependencyExample();
 		
-		//Exercise - テスト実行
+		//Execute - テスト実行
 		sut.doSomething();
 		Date actual = sut.date;
 		

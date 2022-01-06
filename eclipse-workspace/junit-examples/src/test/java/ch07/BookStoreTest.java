@@ -34,7 +34,7 @@ public class BookStoreTest {
 		@Test
 		public void testGetTotalPrice() throws Exception {
 			
-			//Exercise - テスト実行
+			//Execute - テスト実行
 			int actual = this.sut.getTotalPrice();
 			
 			//Verify - 検証
@@ -47,7 +47,7 @@ public class BookStoreTest {
 		@Test(expected = IndexOutOfBoundsException.class)
 		public void testGet() throws Exception {
 			
-			//Exercise - テスト実行
+			//Execute - テスト実行
 			this.sut.get(0);
 			
 			//Verify - 検証
@@ -61,7 +61,7 @@ public class BookStoreTest {
 			//SetUp - 初期化
 			createBookB();
 			
-			//Exercise - テスト実行
+			//Execute - テスト実行
 			this.sut.addToCart(bookB, 1);
 			
 			//Verify - 検証
@@ -96,7 +96,7 @@ public class BookStoreTest {
 		@Test
 		public void testGetTotalPrice() throws Exception {
 			
-			//Exercise - テスト実行
+			//Execute - テスト実行
 			int actual = this.sut.getTotalPrice();
 			
 			//Verify - 検証
@@ -108,7 +108,7 @@ public class BookStoreTest {
 		@Test
 		public void testGet() throws Exception {
 			
-			//Exercise - テスト実行
+			//Execute - テスト実行
 			Book actual = this.sut.get(0);
 			
 			//Verify - 検証
@@ -120,7 +120,7 @@ public class BookStoreTest {
 		@Test
 		public void testAddToCart() throws Exception {
 			
-			//Exercise - テスト実行
+			//Execute - テスト実行
 			this.sut.addToCart(bookB, 3);
 			
 			//Verify - 検証

@@ -44,7 +44,7 @@ public class RandomsMockTest {
 		@Test
 		public void testChoice() {
 			
-			//Exercise - テスト実行
+			//Execute - テスト実行
 			String actual = this.sut.choice(list);
 			
 			//Verify - 検証
@@ -73,7 +73,7 @@ public class RandomsMockTest {
 		@Test
 		public void testChoice() {
 			
-			//Exercise - テスト実行
+			//Execute - テスト実行
 			String actual = this.sut.choice(list);
 			
 			//Verify - 検証

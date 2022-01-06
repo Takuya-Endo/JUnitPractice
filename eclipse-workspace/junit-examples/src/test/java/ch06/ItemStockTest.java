@@ -27,7 +27,7 @@ public class ItemStockTest {
 		@Test
 		public void testSize() throws Exception {
 			
-			//Exercise - テスト実行
+			//Execute - テスト実行
 			int actual = this.sut.size("ItemA");
 			
 			//Verify - 検証
@@ -39,7 +39,7 @@ public class ItemStockTest {
 		@Test
 		public void testContains() throws Exception {
 			
-			//Exercise - テスト実行
+			//Execute - テスト実行
 			boolean actual = this.sut.contains("ItemA");
 			
 			//Verify - 検証
@@ -51,7 +51,7 @@ public class ItemStockTest {
 		@Test
 		public void testAdd() throws Exception {
 			
-			//Exercise - テスト実行
+			//Execute - テスト実行
 			this.sut.add("ItemA", 1);
 
 			//Verify - 検証
@@ -80,7 +80,7 @@ public class ItemStockTest {
 		@Test
 		public void testSize() throws Exception {
 			
-			//Exercise - テスト実行
+			//Execute - テスト実行
 			int actual = this.sut.size("ItemA");
 			
 			//Verify - 検証
@@ -92,7 +92,7 @@ public class ItemStockTest {
 		@Test
 		public void testContains() throws Exception {
 			
-			//Exercise - テスト実行
+			//Execute - テスト実行
 			boolean actual = this.sut.contains("ItemA");
 			
 			//Verify - 検証
@@ -104,7 +104,7 @@ public class ItemStockTest {
 		@Test
 		public void testAdd() throws Exception {
 			
-			//Exercise - テスト実行
+			//Execute - テスト実行
 			this.sut.add("ItemA", 3);
 
 			//Verify - 検証

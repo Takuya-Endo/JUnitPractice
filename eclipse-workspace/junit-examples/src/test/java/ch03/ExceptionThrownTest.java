@@ -11,7 +11,7 @@ public class ExceptionThrownTest {
 		//SetUp - 初期化
 		ExceptionThrown sut = new ExceptionThrown();
 		
-		//Exercise - テスト実行
+		//Execute - テスト実行
 		sut.doSomething();
 		
 	}

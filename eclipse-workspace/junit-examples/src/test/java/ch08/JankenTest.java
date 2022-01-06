@@ -42,7 +42,7 @@ public class JankenTest {
 	@Theory
 	public void testJudgeDraw(Hand paramA, Hand paramB) throws Exception {
 		
-		//Exercise - テスト実行
+		//Execute - テスト実行
 		System.out.println(paramA);
 		System.out.println(paramB);
 		Result actual = this.sut.judge(paramA, paramB);
@@ -56,7 +56,7 @@ public class JankenTest {
 	@Theory
 	public void testJudgeWin(Hand paramA, Hand paramB) throws Exception {
 		
-		//Exercise - テスト実行
+		//Execute - テスト実行
 		System.out.println(paramA);
 		System.out.println(paramB);
 		Result actual = this.sut.judge(paramA, paramB);
@@ -70,7 +70,7 @@ public class JankenTest {
 	@Theory
 	public void testJudgeLose(Hand paramA, Hand paramB) throws Exception {
 		
-		//Exercise - テスト実行
+		//Execute - テスト実行
 		System.out.println(paramA);
 		System.out.println(paramB);
 		Result actual = this.sut.judge(paramA, paramB);

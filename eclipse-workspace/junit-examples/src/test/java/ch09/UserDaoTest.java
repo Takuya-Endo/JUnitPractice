@@ -25,7 +25,7 @@ public class UserDaoTest {
 		this.expectedException.expect(UnsupportedOperationException.class);
 		this.expectedException.expectMessage("未実装");
 		
-		//Exercise - テスト実行
+		//Execute - テスト実行
 		sut.getList();
 		
 	}
@@ -35,7 +35,7 @@ public class UserDaoTest {
 	public void testGetList2() {
 		//SetUp - 初期化
 		UserDao sut = new UserDao();
-		//Exercise - テスト実行
+		//Execute - テスト実行
 		sut.getList();
 		//Verify - 検証
 		fail("No UnsupportedOperationException");
