@@ -1,6 +1,6 @@
 package mock;
 
-import list.StringArrayList;
+import sub.StringArrayList;
 
 @SuppressWarnings("serial") //継承にあたっての警告メッセージ無視
 public class MockStringArrayList extends StringArrayList {

@@ -1,4 +1,4 @@
-package list;
+package main;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
@@ -10,25 +10,22 @@ import org.junit.jupiter.api.Test;
 import mock.MockStringArrayList;
 import sub.StringArrayList;
 
-class StringArrayListTest {
+class MainTest {
 	
 	@Nested
 	class NomalTest {
 
 		//SUT - テスト対象システム
-		private StringArrayList sut;
+		private Main sut;
 
 		@Test
-		void testSize() {
+		void testGetRandomSize() {
 
 			//SetUp - 初期化
-			this.sut = new StringArrayList();
-			
-			//SetUp - 事前処理
-			this.sut.createRandomList();
+			this.sut = new Main();
 			
 			//Execute - テスト実行
-			int actual = this.sut.size();
+			int actual = this.sut.getRandomSize();
 			
 			//Verify - 検証
 			int expected = 5;
@@ -42,13 +39,13 @@ class StringArrayListTest {
 	class StubTest {
 		
 		//SUT - テスト対象システム
-		private StringArrayList sut;
+		private Main sut;
 		
 		@BeforeEach
 		void setUp() throws Exception {
 			
 			//SetUp - 初期化
-			this.sut = new StringArrayList();
+			this.sut = new Main();
 			
 			//Stub - ランダムでないスタブメソッドを持つ、スタブオブジェクト作成
 			StringArrayList stub = new StringArrayList() {
@@ -65,16 +62,15 @@ class StringArrayListTest {
 			};
 			
 			//SetUp - 事前処理
-			this.sut = stub;
-			this.sut.createRandomList();
+			this.sut.setSub(stub);
 			
 		}
 
 		@Test
-		void testSize() {
+		void testGetRandomSize() {
 			
 			//Execute - テスト実行
-			int actual = this.sut.size();
+			int actual = this.sut.getRandomSize();
 			
 			//Verify - 検証
 			int expected = 5;
@@ -83,37 +79,40 @@ class StringArrayListTest {
 		}
 		
 	}
-	
+
 	@Nested
 	class MockTest {
 		
 		//SUT - テスト対象システム
-		private StringArrayList sut;
+		private Main sut;
+		
+		//Mock - ランダムでないスタブメソッドを持ち、実行有無と実行回数を記録するモックオブジェクト作成
+		MockStringArrayList mock = new MockStringArrayList();
 		
 		@BeforeEach
 		void setUp() throws Exception {
 			
 			//SetUp - 初期化
-			this.sut = new StringArrayList();
-			
-			//Stub - ランダムでないスタブメソッドを持ち、実行有無と実行回数を記録するモックオブジェクト作成
-			MockStringArrayList mock = new MockStringArrayList();
+			this.sut = new Main();
 			
 			//SetUp - 事前処理
-			this.sut = mock;
-			this.sut.createRandomList();
-			this.sut.createRandomList();
+			this.sut.setSub(this.mock);
 			
 		}
 
 		@Test
-		void testSize() {
+		void testGetRandomSize() {
 			
 			//Execute - テスト実行
-			int actual = this.sut.size();
+			this.sut.getRandomSize();
+			int actual = this.sut.getRandomSize();
 			
-			//Verify - 検証
+			//Verify - モック記録検証
+			this.mock.getFlag(); //or MockStringArrayList mock = (MockStringArrayList) this.sut.getSub(); mock.getFlag();
+			assertThat(this.mock.getFlag(), is(true));
+			assertThat(this.mock.getConut(), is(2));
 			
+			//Verify - テスト結果検証
 			int expected = 10;
 			assertThat(actual, is(expected));
 			
