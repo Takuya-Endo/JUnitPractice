@@ -19,6 +19,10 @@ public class MockitoSample {
 		assertThat(mock.get(0), is(nullValue()));
 		assertThat(mock.contains("Hello"), is(false));
 		
+		List<String> stub = Mockito.mock(List.class);
+		
+		assertThat(stub.get(0), is("Hello"));
+		
 	}
 	
 	
