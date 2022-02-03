@@ -24,9 +24,7 @@ public class MockitoSample {
 		List<String> stub = Mockito.mock(List.class);
 		//Arrange - スタブメソッド定義
 		when(stub.get(0)).thenReturn("Hello");
-		
-		
-		
+		//Assert - スタブメソッドの戻り値を検証
 		assertThat(stub.get(0), is("Hello"));
 		
 	}
