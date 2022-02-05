@@ -3,6 +3,7 @@ package ch11;
 import static org.hamcrest.CoreMatchers.is;
 import static org.hamcrest.CoreMatchers.nullValue;
 import static org.junit.Assert.assertThat;
+import static org.junit.Assert.fail;
 import static org.mockito.Mockito.when;
 
 import java.util.List;
@@ -26,6 +27,18 @@ public class MockitoSample {
 		when(stub.get(0)).thenReturn("Hello");
 		//Assert - スタブメソッドの戻り値を検証
 		assertThat(stub.get(0), is("Hello"));
+		
+		//Arrange - 例外送出
+		when(stub.get(2)).thenThrow(new ArrayIndexOutOfBoundsException());
+		try {
+			//Act - テスト実行
+			stub.get(2);
+			//Assert - 例外が送出されず、ここに到達したらテスト失敗
+			fail("No ArrayIndexOutOfBoundsException");
+		} catch (ArrayIndexOutOfBoundsException e) {
+			//Assert - catchした例外をテスト
+			assertThat(e.getMessage(), is("ArrayIndexOutOfBoundsException"));
+		}
 		
 	}
 	
