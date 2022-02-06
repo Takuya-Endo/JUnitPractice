@@ -29,7 +29,7 @@ public class MockitoSample {
 		assertThat(stub.get(0), is("Hello"));
 		
 		//Arrange - 例外送出
-		when(stub.get(2)).thenThrow(new ArrayIndexOutOfBoundsException());
+		when(stub.get(2)).thenThrow(new ArrayIndexOutOfBoundsException("ArrayIndexOutOfBoundsException"));
 		try {
 			//Act - テスト実行
 			stub.get(2);
