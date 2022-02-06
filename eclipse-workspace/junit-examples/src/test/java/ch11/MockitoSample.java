@@ -40,6 +40,8 @@ public class MockitoSample {
 			assertThat(e.getMessage(), is("ArrayIndexOutOfBoundsException"));
 		}
 		
+		Mockito.doThrow(new Exception("ExsampleException")).when(stub).clear();
+		
 	}
 	
 	
