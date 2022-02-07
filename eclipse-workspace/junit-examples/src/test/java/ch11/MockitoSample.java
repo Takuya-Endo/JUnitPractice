@@ -40,7 +40,9 @@ public class MockitoSample {
 			assertThat(e.getMessage(), is("ArrayIndexOutOfBoundsException"));
 		}
 		
+		//voidメソッドのスタブ化
 		Mockito.doThrow(new Exception("ExsampleException")).when(stub).clear();
+		stub.clear();
 		
 	}
 	
