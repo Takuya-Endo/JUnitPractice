@@ -42,7 +42,12 @@ public class MockitoSample {
 		
 		//voidメソッドのスタブ化
 		Mockito.doThrow(new Exception("ExsampleException")).when(stub).clear();
-		stub.clear();
+		try {
+			stub.clear();
+			fail("No ArrayIndexOutOfBoundsException");
+		} catch (ArrayIndexOutOfBoundsException e) {
+			assertThat(e.getMessage(), is("ExsampleException"));
+		}
 		
 	}
 	
